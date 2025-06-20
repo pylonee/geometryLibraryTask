@@ -1,0 +1,17 @@
+Thunmbs.db
+desktop.ini
+
+# local env files
+.idea/
+.env.local
+.env.*.local
+venv/
+.env/
+
+# Log files
+*.log
+*.tmp
+
+# Cache
+__pycache__/
+*.pyc
